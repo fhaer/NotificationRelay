@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NotificationRelay</string>
+
+    <string name="start_not_relay">Start</string>
+    <string name="stop_not_relay">Stop</string>
+    <string name="test">Test</string>
+    <string name="not_disabled">Cross User Notifications disabled</string>
+    <string name="not_enabled">Cross User Notifications enabled</string>
+    <string name="action_settings">Settings</string>
+    <string name="interval">Interval [s]:</string>
+    <string name="defaultInterval">300</string>
+</resources>
